@@ -1,7 +1,9 @@
 
-ini hanya percobaan dan sudah mendapat ijin dari owner bila ingin menggunakan script silahkan beli langsung dari pemiliknya  
+<p align="center">
+  ini hanya percobaan dan sudah mendapat ijin dari owner bila ingin menggunakan script silahkan beli langsung dari pemiliknya  
 
 https://github.com/hokagelegend9999/alpha.v2
+</p>
 ---
 
 ## 💾 BACKUP DATA VPS
