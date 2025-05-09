@@ -1,4 +1,4 @@
-ini hanya percobaan dan sudah mendapat ijin dari owner bila ingin menggunakan script silahkan beli langsung dari pemiliknya  
+script ini hanya uji coba dan sudah mendapat ijin dari owner bila ingin menggunakan script silahkan beli langsung dari pemilik aslinya 
 
 <p align="center">https://github.com/hokagelegend9999/alpha.v2</p>
 
